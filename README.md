@@ -1,2 +1,1 @@
-# HGproj
 # htmlDesignProject
